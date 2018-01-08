@@ -1,0 +1,12 @@
+1514552149912	geckodriver	INFO	geckodriver 0.19.1
+1514552149946	geckodriver	INFO	Listening on 127.0.0.1:63357
+1514552152024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PGEVu7IeQdvc"
+1514552279483	geckodriver	INFO	geckodriver 0.19.1
+1514552279538	geckodriver	INFO	Listening on 127.0.0.1:63444
+1514552281600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.8YfoEKjVKbd0"
+1514552283807	Marionette	INFO	Enabled via --marionette
+1514552288271	Marionette	INFO	Listening on port 63450
+1514552289244	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://pos.baidu.com/bcvm?conwid=250&conhei=250&rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1514552303384&ti=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%94%90_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1583x786&pss=1583x6894&cfv=0&cpl=0&chi=2&cce=true&cec=UTF-8&tlm=1514552303&prot=2&rw=786&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%25AF%2594%25E4%25BA%259A%25E8%25BF%25AA%25E5%2594%2590&ltr=https%3A%2F%2Fbaike.baidu.com%2F&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1514552303&qn=f44e8bedd99a3d84&tt=1514552303306.83.865.870, line 118: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/bcvm?conwid=250&conhei=250&rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1514552303384&ti=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%94%90_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1583x786&pss=1583x6894&cfv=0&cpl=0&chi=2&cce=true&cec=UTF-8&tlm=1514552303&prot=2&rw=786&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%25AF%2594%25E4%25BA%259A%25E8%25BF%25AA%25E5%2594%2590&ltr=https%3A%2F%2Fbaike.baidu.com%2F&ecd=1&uc=1600x860&pis=-1x-1&sr=1600x900&tcn=1514552303&qn=f44e8bedd99a3d84&tt=1514552303306.83.865.870, line 118: unreachable code after return statement
